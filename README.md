@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/1d72c87b-cd20-4d1d-9d7c-15d17214e36d
 
 The turret scans the room, builds a list of balloons, then visits them nearest first, locks on and counts each pop. Filmed with laser goggles worn and a matte backstop behind the targets.
 
-<!-- Replace this line with the video URL: github.com/user-attachments/assets/... -->
+https://github.com/user-attachments/assets/e9bf0c76-8b93-4556-8750-973614596118
 
 ## Status
 
