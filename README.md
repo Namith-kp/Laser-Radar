@@ -1,7 +1,4 @@
 
-
-https://github.com/user-attachments/assets/1d72c87b-cd20-4d1d-9d7c-15d17214e36d
-
 # Laser Turret
 
 A two-axis pan/tilt turret that finds, tracks and aims at objects using a cheap ESP32-CAM, an Arduino Uno and two stepper motors, with all vision work done on a PC GPU. It can follow a single selected object, find and pop balloons with a custom-trained YOLO model, and take chat or voice commands such as "aim at the chair".
@@ -35,7 +32,7 @@ This is a hobby/education project. The laser control path is built to fail safe,
 
 One object is selected and followed. The head keeps it centred while it moves, and re-locks it after it leaves and re-enters the frame.
 
-<!-- Replace this line with the video URL (see instructions in the repo docs): github.com/user-attachments/assets/... -->
+https://github.com/user-attachments/assets/1d72c87b-cd20-4d1d-9d7c-15d17214e36d
 
 ### Hunt mode
 
