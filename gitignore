@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Datasets, training output, weights
+balloon_data/
+runs/
+runs_balloon/
+runs_detect/
+balloon_data
+*.pt
+*.onnx
+*.engine
+
+# Secrets and local config
+.env
+*.local
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

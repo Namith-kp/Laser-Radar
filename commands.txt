@@ -1,0 +1,4 @@
+python collect_balloons.py --source serial:COM8 
+python train_balloon.py --data balloon_data/data.yaml 
+python balloon_track.py --source serial:COM8 --port COM7 --latency 0.08 --invert-tilt
+python hunter.py --source serial:COM8 --port COM7 --model balloon.pt --invert-tilt 

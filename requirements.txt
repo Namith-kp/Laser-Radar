@@ -1,0 +1,19 @@
+# Core (tracker.py, balloon_track.py, hunter.py, collect_balloons.py)
+opencv-contrib-python==4.11.0.86
+numpy
+pyserial
+
+# Detection and training (balloon_track, hunter, voice_turret, train_balloon).
+# On Windows, install the CUDA build of PyTorch first - see README, "GPU".
+ultralytics
+
+# voice_turret.py: voice input and spoken replies (all optional)
+faster-whisper
+sounddevice
+pyttsx3
+
+# voice_turret.py: LLM command parsing with --llm claude (optional; needs ANTHROPIC_API_KEY)
+anthropic
+
+# foam_blueprint/make_blueprint.py
+reportlab
